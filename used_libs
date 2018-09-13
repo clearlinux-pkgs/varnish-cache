@@ -1,0 +1,11 @@
+libc.so.6
+libdl.so.2
+libgcc_s.so.1
+libjemalloc.so.2
+libm.so.6
+libncursesw.so.6
+libpcre.so.1
+libpthread.so.0
+libreadline.so.7
+librt.so.1
+libtinfow.so.6

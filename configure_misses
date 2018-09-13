@@ -1,0 +1,34 @@
+Configure miss: rst2man
+Configure miss: rst2html
+Configure miss: umem.h usability
+Configure miss: umem.h presence
+Configure miss: umem.h
+Configure miss: edit/readline/readline.h usability
+Configure miss: edit/readline/readline.h presence
+Configure miss: edit/readline/readline.h
+Configure miss: libedit
+Configure miss: readline.h usability
+Configure miss: readline.h presence
+Configure miss: readline.h
+Configure miss: history.h usability
+Configure miss: history.h presence
+Configure miss: history.h
+Configure miss: ncursesw/curses.h usability
+Configure miss: ncursesw/curses.h presence
+Configure miss: ncursesw/curses.h
+Configure miss: ncursesw.h usability
+Configure miss: ncursesw.h presence
+Configure miss: ncursesw.h
+Configure miss: ncurses/curses.h usability
+Configure miss: ncurses/curses.h presence
+Configure miss: ncurses/curses.h
+Configure miss: pthread_np.h
+Configure miss: priv.h usability
+Configure miss: priv.h presence
+Configure miss: priv.h
+Configure miss: setppriv
+Configure miss: closefrom
+Configure miss: pthread_set_name_np
+Configure miss: pthread_mutex_isowned_np
+Configure miss: port_create
+Configure miss: whether SO_ACCEPTFILTER is declared
