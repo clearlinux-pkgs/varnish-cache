@@ -1,4 +1,6 @@
 libvarnishapi.so.2:LIBVARNISHAPI_2.0
+libvarnishapi.so.2:LIBVARNISHAPI_2.1
+libvarnishapi.so.2:LIBVARNISHAPI_2.2
 libvarnishapi.so.2:VAS_Fail
 libvarnishapi.so.2:VCLI_AuthResponse
 libvarnishapi.so.2:VCLI_ReadResult
@@ -26,6 +28,14 @@ libvarnishapi.so.2:VSC_Destroy
 libvarnishapi.so.2:VSC_Iter
 libvarnishapi.so.2:VSC_New
 libvarnishapi.so.2:VSC_State
+libvarnishapi.so.2:VSIG_Arm_hup
+libvarnishapi.so.2:VSIG_Arm_int
+libvarnishapi.so.2:VSIG_Arm_term
+libvarnishapi.so.2:VSIG_Arm_usr1
+libvarnishapi.so.2:VSIG_Got_hup
+libvarnishapi.so.2:VSIG_Got_int
+libvarnishapi.so.2:VSIG_Got_term
+libvarnishapi.so.2:VSIG_Got_usr1
 libvarnishapi.so.2:VSLQ_Delete
 libvarnishapi.so.2:VSLQ_Dispatch
 libvarnishapi.so.2:VSLQ_Flush
@@ -84,3 +94,4 @@ libvarnishapi.so.2:VUT_Main
 libvarnishapi.so.2:VUT_Setup
 libvarnishapi.so.2:VUT_Signal
 libvarnishapi.so.2:VUT_Signaled
+libvarnishapi.so.2:VUT_Usage
